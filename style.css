@@ -4,7 +4,7 @@
   max-height: 95px; */
   /* width: auto;
   height: auto; */
-  height: 1000px;
+  height: 750px;
   background: transparent no-repeat center;
   background-size: cover;
 
@@ -38,7 +38,7 @@ button {
 .gif{
   position: fixed;
   width:325px;
-  height:150px;
+  height:235px;
   bottom: 210px;
   left: 20%;
   margin-left: -100px;
@@ -48,9 +48,9 @@ button {
 }
 
 .whitebg{
-  border-style:solid;
-  height: 100px;
-  width: 200px;
-  margin-left:130px;
-  postion:relative;
+  height: 120px;
+  width: 230px;
+  bottom: 450px;
+  left: 12%;
+  position: relative;
 }
