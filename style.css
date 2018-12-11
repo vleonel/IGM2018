@@ -1,0 +1,15 @@
+#about
+{
+
+}
+
+.test{
+  /* display: block; */
+  /* max-width: 230px;
+  max-height: 95px; */
+  /* width: auto;
+  height: auto; */
+  height: 1000px;
+  background: transparent no-repeat center;
+  background-size: cover;
+}
