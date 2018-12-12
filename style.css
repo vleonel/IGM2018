@@ -1,10 +1,11 @@
-.test{
+ .test{
   /* display: block; */
   /* max-width: 230px;
   max-height: 95px; */
   /* width: auto;
   height: auto; */
-  height: 750px;
+  height: 788px;
+
   background: transparent no-repeat center;
   background-size: cover;
 
@@ -37,20 +38,20 @@ button {
 
 .gif{
   position: fixed;
-  width:325px;
+  width:250px;
   height:235px;
   bottom: 210px;
   left: 20%;
-  margin-left: -100px;
+  margin-left: -50px;
   text-align:center;
   position:relative;
-
 }
 
 .whitebg{
+  /* border-style:solid;
   height: 120px;
-  width: 230px;
-  bottom: 450px;
-  left: 12%;
-  position: relative;
-}
+  width: 200px;
+  bottom: 350px;
+  left: 15%;
+  position: relative; */
+} 
